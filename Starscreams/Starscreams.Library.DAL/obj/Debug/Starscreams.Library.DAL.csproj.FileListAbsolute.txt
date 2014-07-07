@@ -1,0 +1,8 @@
+c:\Projects\Starscreams\Starscreams\Starscreams.Library.DAL\bin\Debug\Starscreams.Library.DAL.dll.config
+c:\Projects\Starscreams\Starscreams\Starscreams.Library.DAL\bin\Debug\Starscreams.Library.DAL.dll
+c:\Projects\Starscreams\Starscreams\Starscreams.Library.DAL\bin\Debug\Starscreams.Library.DAL.pdb
+c:\Projects\Starscreams\Starscreams\Starscreams.Library.DAL\bin\Debug\EntityFramework.dll
+c:\Projects\Starscreams\Starscreams\Starscreams.Library.DAL\bin\Debug\EntityFramework.xml
+c:\Projects\Starscreams\Starscreams\Starscreams.Library.DAL\obj\Debug\Starscreams.Library.DAL.csprojResolveAssemblyReference.cache
+c:\Projects\Starscreams\Starscreams\Starscreams.Library.DAL\obj\Debug\Starscreams.Library.DAL.dll
+c:\Projects\Starscreams\Starscreams\Starscreams.Library.DAL\obj\Debug\Starscreams.Library.DAL.pdb
